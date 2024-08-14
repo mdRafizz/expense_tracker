@@ -1,6 +1,7 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+user's daily account will be saved. onging project.
+database: SQLite, firebase
 
 ## Getting Started
 
